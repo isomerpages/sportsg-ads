@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Sanctions.md
       - About ADS.md
       - Consequences of Doping.md
       - example-subfolder/.keep
