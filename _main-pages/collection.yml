@@ -2,7 +2,6 @@ collections:
   main-pages:
     output: true
     order:
-      - Check Medication.md
       - folder-page.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
