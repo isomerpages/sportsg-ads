@@ -84,37 +84,3 @@ An athlete that is charged with an anti-doping rule violation has the right to a
 APPEAL
 
 Decisions made by the NADC or alternative hearing body may be appealed. Depending on the status of the athlete, the appeal may be heard by the Court of Arbitration for Sport (CAS) or the National Anti-Doping Appeals Committee (NAAC). The NAAC is a national appeals body independent of ADS and NSAs, and is appointed by the MCCY.
-
-#### Consequences of Doping
-Usage of Prohibited Substances and Prohibited Methods may result in very sever health consequences, as well as sporting, financial, legal and social consequences.
-
-Physical and Mental Health
-
-Physical Health: Depending on the substance, the dosage and the consumption frequency, doping products may have particularly negative side effects on health. Some damages for the body are irreversible and may put one’s life in great danger.
-
-Mental Health: Some doping substances may not be detrimental to the body but exercise an impact on mental health. It has been scientifically evidenced that anxiety, obsessive disorders or psychosis are direct consequences from doping.
-
-Social Consequences
-
-The existence of an athlete who was charged as guilty for doping may be completely disrupted. Other than health consequences, it may also be prejudicial to the fame, respect and creditworthiness. Even in the future, negative findings are regularly questioned by the media and the entourage. The damage to the reputation will remain in the collective unconscious and the athlete could remain isolated.
-
-Financial Consequences
-
-In elite sport, an infringement of anti-doping rules often leads to a loss of income, the reimbursement of prize moneys and even the sponsorship money. An athlete suspended for several years, or even banned for life, cannot earn his/her living as usual and can even be forced into debt to live on a day-to-day basis.
-
-Sporting Consequences
-
-A doping violation may mean loss of results, rankings, medals and qualification places at events. It could also have an impact on members of the same team, causing medals to be lost.
-
-Legal Consequences
-
-Doping may have major legal consequences. A sanctioned athlete may not take part in sport competition or in organized training sessions.
-
-#### Sanctions
-Sanctions for violating anti-doping rule violations may range from a reprimand to a lifetime ban. The period of ineligibility may vary depending on the type of anti-doping rule violation, the circumstances of each case, the substance, and the possible repetition of an anti-doping rule violation.
-
-For in-competition testing, this will automatically include disqualification of results attained in the competition and the forfeit of any medals, points, and/or prizes. All results of any competitions following collection of the sample may also be disqualified.
-
-An athlete or athlete support personnel who is serving a period of ineligibility arising from an anti-doping rule violation committed in a sport is not allowed to participate in any other sport at any level during the period of ineligibility.
-
-Under the Anti-Doping Singapore’s (ADS) Anti-Doping Rules, as well as the World Anti-Doping Code, ADS is required to publish information of the Anti-Doping Rule Violation (ADRV) once a decision has been handed down by the relevant tribunal.
