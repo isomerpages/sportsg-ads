@@ -1,5 +1,5 @@
 collections:
-  main-pages:
+  about:
     output: true
     order:
       - folder-page.md
