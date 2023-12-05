@@ -1,6 +1,6 @@
 ---
 title: Education
 permalink: /education/
-variant: tiptap
+variant: markdown
 description: ""
 ---
