@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - About ADS.md
-      - folder-page.md
+      - Consequences of Doping.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
