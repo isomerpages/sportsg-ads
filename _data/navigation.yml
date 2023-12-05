@@ -2,6 +2,8 @@ logo: /images/logo.png
 links:
   - title: About ADS
     url: /about-us/
+  - title: Education
+    url: /education
   - title: Testing Pool Athletes
     url: /testing-pool
     sublinks:
@@ -11,5 +13,3 @@ links:
     url: /adrv/
   - title: Check Medication
     url: /check-medication
-  - title: Education
-    url: /education
