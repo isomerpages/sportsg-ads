@@ -3,6 +3,11 @@ links:
   - title: About ADS
     url: /about-us/
   - title: Testing Pool Athletes
-    url: /testing/
-  - title: Example Folder
-    collection: example-folder
+    url: /testing-pool
+    sublinks:
+      - title: Procedures & Statistics
+        url: /procedure
+  - title: Anti Doping Rule Violation
+    url: /adrv/
+  - title: Check medication
+    url: /check-medication
