@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - About ADS.md
       - What Happen To Your Sample?.md
       - Consequences of Doping.md
       - Sanctions.md
