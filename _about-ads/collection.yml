@@ -1,5 +1,5 @@
 collections:
-  about:
+  about-ads:
     output: true
     order:
       - What Happen To Your Sample?.md
