@@ -2,4 +2,5 @@ collections:
   anti-doping-rule-violations:
     output: true
     order:
+      - Consequences of Doping.md
       - What Happen To Your Sample?.md
