@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - About ADS.md
-      - Consequences of Doping.md
       - What Happen To Your Sample?.md
       - Sanctions.md
