@@ -5,8 +5,7 @@ variant: markdown
 description: ""
 ---
 ![what is doping](/images/about_us.png)
-#### What Happen To Your Sample?
-
+#### What Happen To Your Sample? 
 Every sample you provide is collected, analysed and investigated according to international rules set out in the World Anti-Doping Code. These rules are designed to protect your rights, and ensure the process is the same no matter where you are tested in the world.
 
 The laboratory that has analysed your A Sample will report the results simultaneously to the Anti-Doping Organisation, such as Anti-Doping Singapore (ADS), and the World Anti-Doping Agency (WADA). Your B Sample is frozen and analysed if there is an Adverse Analytical Finding on your A Sample. Note that the samples analysed are identified by code numbers and not athlete names.
