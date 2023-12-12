@@ -12,16 +12,14 @@ The laboratory that has analysed your A Sample will report the results simultane
 
 Three possible outcomes may arise from sample analysis - a Negative Analytical Finding, an Atypical Finding or an Adverse Analytical Finding.
 
-NEGATIVE ANALYTICAL FINDING
-
+**NEGATIVE ANALYTICAL FINDING**  
 A negative test result will be issued by the laboratory if no prohibited substance or evidence of the use of a prohibited method is detected in the sample.
 
-ATYPICAL FINDING
-
+**ATYPICAL FINDING**  
 The body naturally produces some prohibited substances, such as testosterone. The presence of such substances outside what is considered to be a normal range in the A Sample may result in the laboratory reporting an Atypical Finding. For such cases, ADS will determine if:
 
-a Therapeutic Use Exemption (TUE) has been granted
-there has been a departure from the International Standard for Testing or International Standard for Laboratories that may have caused the atypical finding.
+* A Therapeutic Use Exemption (TUE) has been granted
+* There has been a departure from the International Standard for Testing or International Standard for Laboratories that may have caused the atypical finding.
 Further investigations will follow if the review reveals that it was not a TUE or departure from procedures that caused the atypical finding.
 
 The athlete will only be notified when ADS has completed its investigations and decided whether it will bring the atypical finding forward as an adverse analytical finding. No further action will be taken if there is no evidence of use of a prohibited substance. ADS will report the atypical finding as an adverse analytical finding, if there is evidence of use.
