@@ -1,5 +1,5 @@
 collections:
-  anti-doping-rule-violations:
+  anti-doping-rule-violation:
     output: true
     order:
       - What Happen To Your Sample?.md
