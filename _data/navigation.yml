@@ -5,7 +5,7 @@ links:
   - title: About ADS
     url: /about-us/
   - title: Education
-    url: /education
+    collection: education
   - title: Testing Pool Athletes
     url: /testing-pool-athletes/
     sublinks:
