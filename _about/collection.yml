@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - About ADS.md
-      - What Happen To Your Sample?.md
       - Sanctions.md
