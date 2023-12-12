@@ -1,0 +1,4 @@
+collections:
+  therapeutic-use-exemption:
+    output: true
+    order: []
