@@ -1,4 +1,5 @@
 collections:
   therapeutic-use-exemption:
     output: true
-    order: []
+    order:
+      - Therapeutic Use Exemption (TUE).md
