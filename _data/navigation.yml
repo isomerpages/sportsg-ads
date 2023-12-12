@@ -5,10 +5,7 @@ links:
   - title: Education
     collection: education
   - title: Testing
-    url: /testing-pool-athletes/
-    sublinks:
-      - title: Procedures & Statistics
-        url: /procedure
+    collection: testing
   - title: Anti Doping Rule Violation
     url: /adrv/
   - title: Therapeutic Use Exemption
