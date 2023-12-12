@@ -2,11 +2,9 @@ logo: /images/logo.png
 links:
   - title: About
     collection: about
-  - title: About ADS
-    url: /about-us/
   - title: Education
     collection: education
-  - title: Testing Pool Athletes
+  - title: Testing
     url: /testing-pool-athletes/
     sublinks:
       - title: Procedures & Statistics
