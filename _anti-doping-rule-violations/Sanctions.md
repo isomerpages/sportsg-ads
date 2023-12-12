@@ -13,3 +13,5 @@ For in-competition testing, this will automatically include disqualification of 
 An athlete or athlete support personnel who is serving a period of ineligibility arising from an anti-doping rule violation committed in a sport is not allowed to participate in any other sport at any level during the period of ineligibility.
 
 Under the Anti-Doping Singapore’s (ADS) Anti-Doping Rules, as well as the World Anti-Doping Code, ADS is required to publish information of the Anti-Doping Rule Violation (ADRV) once a decision has been handed down by the relevant tribunal.
+
+(Image for Sanctions over the years..)
