@@ -4,3 +4,4 @@ permalink: /therapeutic-use-exemption/permalink/
 variant: tiptap
 description: ""
 ---
+<p></p>
