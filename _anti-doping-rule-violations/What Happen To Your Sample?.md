@@ -67,14 +67,11 @@ If the initial review does not justify the Adverse Analytical Finding, ADS will 
 **B SAMPLE ANALYSIS**  
 The athlete has the right to request the analysis of the B Sample if the charge of possible anti-doping rule violation is based on an adverse analytical finding. ADS will notify the athlete of the date and time for the B Sample analysis. The athlete or the athlete representative has the right to attend the identification, opening and analysis of the B Sample. Where neither the athlete nor athlete representative attends, ADS or the laboratory shall appoint an independent person to witness the B Sample analysis. If the B Sample does not confirm the A Sample then the entire test shall be considered as negative and the charge will be withdrawn. If the B Sample analysis confirms the adverse analytical finding in respect of the A Sample, then the matter shall proceed to a hearing.
 
-PROVISIONAL SUSPENSION
-
+**PROVISIONAL SUSPENSION**  
 Once the athlete has received notification following the initial review, ADS will notify the respective National Sports Association (NSA), who will impose a provisional suspension on the athlete. A provisional suspension can only be imposed if the athlete is given an opportunity for a provisional or an expedited hearing. Where a provisional suspension has been imposed in relation to an A Sample adverse analytical finding, and the athlete has requested that the B Sample be analysed, and where the B Sample does not confirm the A Sample analysis, then the provisional suspension shall be rescinded immediately.
 
-HEARING
-
+**HEARING**  
 An athlete that is charged with an anti-doping rule violation has the right to a fair hearing. The anti-doping organization that initiated sample collection is responsible for determining what sanctions will apply to each individual case. Where the ADS Anti-Doping Rules apply, the hearing will be held before the National Anti-Doping Disciplinary Committee (NADC). The NADC is a national tribunal body independent of ADS and the National Sports Associations (NSA), and is appointed by the Ministry of Culture, Community and Youth (MCCY). The NADC will hear cases of possible anti-doping rule violation and decide on the appropriate consequences.
 
-APPEAL
-
+**APPEAL**  
 Decisions made by the NADC or alternative hearing body may be appealed. Depending on the status of the athlete, the appeal may be heard by the Court of Arbitration for Sport (CAS) or the National Anti-Doping Appeals Committee (NAAC). The NAAC is a national appeals body independent of ADS and NSAs, and is appointed by the MCCY.
