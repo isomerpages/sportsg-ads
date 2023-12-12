@@ -4,6 +4,8 @@ permalink: /education/
 variant: markdown
 description: ""
 ---
+
+![](/images/Education/Be_A_True_Winner.png)
 ### **Education**
 
 To achieve its vision that *"Every Singaporean Athlete is a True Winner"*, one of the key strategies of Anti-Doping Singapore (ADS) is through anti-doping education.
