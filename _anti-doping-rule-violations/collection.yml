@@ -1,0 +1,4 @@
+collections:
+  anti-doping-rule-violations:
+    output: true
+    order: []
