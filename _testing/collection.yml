@@ -2,4 +2,5 @@ collections:
   testing:
     output: true
     order:
+      - Testing Procedures & Statistics.md
       - Testing Pool Athletes.md
