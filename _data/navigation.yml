@@ -1,5 +1,7 @@
 logo: /images/logo.png
 links:
+  - title: About
+    collection: about
   - title: About ADS
     url: /about-us/
   - title: Education
