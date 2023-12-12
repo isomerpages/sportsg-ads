@@ -7,7 +7,7 @@ links:
   - title: Testing
     collection: testing
   - title: Anti Doping Rule Violation
-    url: /adrv/
+    collection: anti-doping-rule-violation
   - title: Therapeutic Use Exemption
     collection: therapeutic-use-exemption
   - title: Check Medication
