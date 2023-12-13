@@ -9,9 +9,12 @@ locations:
       - Singapore, 397630
       - ""
     operating_hours:
-      - days: Mon - Fri
-        time: 9.00am - 6.30pm
-        description: Closed on Public Holidays
+      - days: Mon - Thurs
+        time: 8.30am - 6.00pm
+        description: ""
+      - days: Fri
+        time: 8.30am - 5.30pm
+        description: (Closed on Saturdays, Sundays and Public Holidays)
     maps_link: ""
     title: Anti-Doping Singapore
 contacts:
