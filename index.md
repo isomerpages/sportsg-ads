@@ -14,11 +14,11 @@ sections:
         - title: What we do
           description: ""
           url: /about-ads/
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Term of use
+          description: ""
+          url: /term-of-use/
+        - title: Privacy Statement
+          description: ""
           url: /privacy/
       variant: center
       size: md
