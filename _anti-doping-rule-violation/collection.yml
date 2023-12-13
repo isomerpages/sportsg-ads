@@ -1,5 +1,4 @@
 collections:
   anti-doping-rule-violation:
     output: true
-    order:
-      - Sanctions.md
+    order: []
