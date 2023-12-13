@@ -7,10 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Anti Doping Singapore
-      subtitle: Hero subtitle
+      title: Anti Doping Singapore (ADS)
       background: /images/ADS_Website__Hero_Banner_.jpg
-      button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: Highlight A
@@ -22,10 +20,21 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      variant: center
+      size: md
+      alignment: left
+      backgroundColor: gray
   - infobar:
       title: Infobar title
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
