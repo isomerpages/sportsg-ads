@@ -16,7 +16,7 @@ sections:
           url: /about-ads/
         - title: Term of use
           description: ""
-          url: /term-of-use/
+          url: /terms-of-use/
         - title: Privacy Statement
           description: ""
           url: /privacy/
