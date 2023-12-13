@@ -2,6 +2,7 @@ collections:
   testing:
     output: true
     order:
+      - Sanctions.md
       - Consequences of Doping.md
       - What Happen To Your Sample?.md
       - Testing Pool Athletes.md
