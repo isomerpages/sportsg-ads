@@ -2,5 +2,6 @@ collections:
   testing:
     output: true
     order:
+      - What Happen To Your Sample?.md
       - Testing Pool Athletes.md
       - Testing Procedures & Statistics.md
