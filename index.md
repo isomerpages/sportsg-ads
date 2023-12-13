@@ -25,16 +25,8 @@ sections:
       alignment: left
       backgroundColor: gray
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Clean Sport Starts From You
+      subtitle: our work
+      button: Click to find out more
       url: /faq/
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
