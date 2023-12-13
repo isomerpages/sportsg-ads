@@ -2,5 +2,4 @@ collections:
   anti-doping-rule-violation:
     output: true
     order:
-      - Consequences of Doping.md
       - Sanctions.md
