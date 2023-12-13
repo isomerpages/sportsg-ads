@@ -26,7 +26,7 @@ sections:
       backgroundColor: gray
   - infobar:
       title: Clean Sport Starts From You
-      subtitle: Every athlete, a true winner
+      subtitle: Every Athlete, a true winner
       button: Read more
       url: /education/
 ---
