@@ -1,0 +1,5 @@
+collections:
+  education:
+    output: true
+    order:
+      - Education.md

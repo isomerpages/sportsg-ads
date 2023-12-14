@@ -1,0 +1,6 @@
+collections:
+  therapeutic-use-exemption:
+    output: true
+    order:
+      - Therapeutic Use Exemption (TUE).md
+      - Prohibited List.md
