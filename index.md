@@ -13,7 +13,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Anti Doping Singapore (ADS)
+      title: Anti Doping Singapore
       background: /images/ADS_Website__Hero_Banner_.jpg
       url: /contact-us/
       key_highlights:
