@@ -2,6 +2,7 @@ collections:
   testing:
     output: true
     order:
+      - Rights and Responsibilities.md
       - Testing Pool Athletes.md
       - Testing Procedures & Statistics.md
       - What Happen To Your Sample?.md
