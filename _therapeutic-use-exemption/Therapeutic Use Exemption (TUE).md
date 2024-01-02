@@ -1,6 +1,6 @@
 ---
 title: Therapeutic Use Exemption (TUE)
-permalink: /tue/
+permalink: /therapeutic-use-exemption/
 variant: tiptap
 description: ""
 ---
