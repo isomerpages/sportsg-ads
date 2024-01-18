@@ -1,4 +1,5 @@
 collections:
   anti-doping-rule-violations:
     output: true
-    order: []
+    order:
+      - Consequences of Doping.md
