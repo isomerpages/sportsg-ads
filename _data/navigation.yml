@@ -9,6 +9,6 @@ links:
   - title: Therapeutic Use Exemption
     collection: therapeutic-use-exemption
   - title: Supplements
-    url: /supplements/
+    collection: supplements
   - title: Report Doping
     url: /report-doping
