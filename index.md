@@ -23,9 +23,9 @@ sections:
         - title: Check Medications
           description: ""
           url: /check-medication/
-        - title: Privacy Statement
+        - title: Report Doping
           description: ""
-          url: /privacy/
+          url: /report-doping/
       variant: center
       size: md
       alignment: left
