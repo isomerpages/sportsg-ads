@@ -20,9 +20,9 @@ sections:
         - title: What we do
           description: ""
           url: /about-ads/
-        - title: Term of use
+        - title: Check Medications
           description: ""
-          url: /terms-of-use/
+          url: /check-medication/
         - title: Privacy Statement
           description: ""
           url: /privacy/
