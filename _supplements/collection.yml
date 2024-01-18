@@ -2,4 +2,4 @@ collections:
   supplements:
     output: true
     order:
-      - Supplements 101.md
+      - Supplements.md
