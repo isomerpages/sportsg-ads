@@ -1,0 +1,4 @@
+collections:
+  supplements:
+    output: true
+    order: []
