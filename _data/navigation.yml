@@ -10,5 +10,5 @@ links:
     collection: therapeutic-use-exemption
   - title: Supplements
     collection: supplements
-  - title: Report Doping
-    url: /report-doping
+  - title: Anti-Doping Rule violations
+    collection: anti-doping-rule-violations
