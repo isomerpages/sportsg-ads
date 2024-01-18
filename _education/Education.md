@@ -4,7 +4,6 @@ permalink: /education/
 variant: markdown
 description: ""
 ---
-
 ![](/images/Education/Be_A_True_Winner.png)
 ### **Education**
 
@@ -20,6 +19,8 @@ Targeted at athletes competing at all levels and their support personnel, our ed
 * Outreach sessions to educate youth athletes about their anti-doping responsibilities in a fun and interactive manner.
 
 To achieve this, ADS works closely with the various National Sports Associations and the sports fraternity so that athletes enjoy the right to doping-free sport in Singapore. 
+
+Email to find out more.
 
 #### **PRINCIPLES &amp; VALUES ASSOCIATED  WITH CLEAN SPORT**
 
