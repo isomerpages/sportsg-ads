@@ -8,7 +8,7 @@ links:
     collection: testing
   - title: Therapeutic Use Exemption
     collection: therapeutic-use-exemption
-  - title: Check Medication
-    url: /check-medication
-  - title: Report Doping
-    url: /report-doping
+  - title: Supplements
+    collection: supplements
+  - title: Anti-Doping Rule violations
+    collection: anti-doping-rule-violations

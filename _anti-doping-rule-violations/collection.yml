@@ -1,0 +1,6 @@
+collections:
+  anti-doping-rule-violations:
+    output: true
+    order:
+      - Consequences of Doping.md
+      - Sanctions.md

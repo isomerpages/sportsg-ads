@@ -13,19 +13,19 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Anti Doping Singapore
+      title: Anti-Doping Singapore
       background: /images/ADS_Website__Hero_Banner_.jpg
       url: /contact-us/
       key_highlights:
         - title: What we do
           description: ""
           url: /about-ads/
-        - title: Term of use
+        - title: Check Medications
           description: ""
-          url: /terms-of-use/
-        - title: Privacy Statement
+          url: /check-medication/
+        - title: Report Doping
           description: ""
-          url: /privacy/
+          url: /report-doping/
       variant: center
       size: md
       alignment: left
