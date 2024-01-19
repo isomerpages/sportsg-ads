@@ -20,7 +20,7 @@ sections:
         - title: What we do
           description: ""
           url: /about-ads/
-        - title: Check Medication
+        - title: Check Medications
           description: ""
           url: /check-medication/
         - title: Report Doping
