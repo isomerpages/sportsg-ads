@@ -1,0 +1,64 @@
+title: Anti Doping Singapore
+url: https://www.antidopingsingapore.gov.sg
+favicon: /images/logo.png
+colors:
+  primary-color: "#d0021b"
+  secondary-color: "#4372d6"
+  media-colors:
+    - title: media-color-one
+      color: "#49759a"
+    - title: media-color-two
+      color: "#744d9f"
+    - title: media-color-three
+      color: "#00838f"
+    - title: media-color-four
+      color: "#00838f"
+    - title: media-color-five
+      color: "#00838f"
+description: >-
+  Anti-Doping Singapore (ADS) was established in 2010 by the then Ministry of
+  Community Development, Youth and Sports as the national anti-doping authority
+  for Singapore.
+
+
+  ADS' mission is to ensure sport in Singapore is free of doping through the implementation of effective education, detection, research and international co-operation initiatives. We work together with the sport bodies to protect the rights of Athletes to participate in clean sport.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging-lite.d1z50qmzbmct1i.amplifyapp.com
+prod: https://master.d4u9cbbrqi7ww.amplifyapp.com
+facebook-pixel: ""
+shareicon: /images/logo.png
+is_government: true
+google_analytics_ga4: G-R3JW68K3K4
+linkedin-insights: ""

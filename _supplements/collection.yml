@@ -1,0 +1,5 @@
+collections:
+  supplements:
+    output: true
+    order:
+      - Supplements.md

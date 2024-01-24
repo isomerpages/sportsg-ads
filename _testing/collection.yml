@@ -1,0 +1,8 @@
+collections:
+  testing:
+    output: true
+    order:
+      - Testing Pool Athletes.md
+      - Rights And Responsibilities.md
+      - Testing Procedures & Statistics.md
+      - What Happen To Your Sample?.md

@@ -1,0 +1,14 @@
+logo: /images/logo.png
+links:
+  - title: About
+    collection: about
+  - title: Education
+    collection: education
+  - title: Testing
+    collection: testing
+  - title: Therapeutic Use Exemption
+    collection: therapeutic-use-exemption
+  - title: Supplements
+    collection: supplements
+  - title: Anti-Doping Rule violations
+    collection: anti-doping-rule-violations
