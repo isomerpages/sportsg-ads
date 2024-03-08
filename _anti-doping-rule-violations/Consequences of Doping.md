@@ -4,11 +4,10 @@ permalink: /doping-consequences/
 variant: markdown
 description: ""
 ---
-
 ![](/images/about_us.png)
 #### Consequences of Doping
 
-Usage of Prohibited Substances and Prohibited Methods may result in very sever health consequences, as well as sporting, financial, legal and social consequences.
+Usage of Prohibited Substances and Prohibited Methods may result in very severe health consequences, as well as sporting, financial, legal and social consequences.
 
 <u><b>Physical and Mental Health</b></u>  
 Physical Health: Depending on the substance, the dosage and the consumption frequency, doping products may have particularly negative side effects on health. Some damages for the body are irreversible and may put one’s life in great danger.
