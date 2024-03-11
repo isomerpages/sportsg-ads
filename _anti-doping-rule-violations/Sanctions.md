@@ -2,7 +2,10 @@
 title: Sanctions
 permalink: /sanctions/
 variant: markdown
-description: ""
+description: Sanctions for violating anti-doping rule violation may range from a
+  reprimand to a lifetime ban. The period of ineligibility may vary depending on
+  the type of anti-doping rule violation, the circumstances of each case, the
+  substance, and the possible repetition of an anti-doping rule violation.
 ---
 #### Sanctions
 

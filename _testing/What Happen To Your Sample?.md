@@ -2,7 +2,10 @@
 title: What Happen To Your Sample?
 permalink: /what-happen-to-your-sample/
 variant: markdown
-description: ""
+description: Every sample you provide is collected, analyzed and investigated
+  according to international rules set out in the World Anti-Doping Code. These
+  rules are designed to protect your rights, and ensure the process is the same
+  no matter where you are tested in the world.
 ---
 #### What Happen To Your Sample? 
 Every sample you provide is collected, analysed and investigated according to international rules set out in the World Anti-Doping Code. These rules are designed to protect your rights, and ensure the process is the same no matter where you are tested in the world.

@@ -2,6 +2,8 @@
 title: Privacy Statement
 permalink: /privacy/
 variant: markdown
+description: This is Anti-Doping Singapore website. Please read the statement in
+  the webpage for more information.
 ---
 ### **Government Agency Privacy Statement**
 

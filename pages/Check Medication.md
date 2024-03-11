@@ -2,7 +2,10 @@
 title: Check Medication
 permalink: /check-medication/
 variant: markdown
-description: ""
+description: The Check Medication database is used within the Anti-Doping
+  Singapore and provides information on pharmaceutical products that may be used
+  in sports and that are licensed in Singapore by the Health Science Authority
+  as of the date of the last update of this database of medications.
 ---
 This [‘Check Medication’ database](https://checkmedication.antidopingsingapore.gov.sg/) is used within the Anti-Doping Singapore (ADS) [website](https://www.antidopingsingapore.gov.sg/) and provides information on pharmaceutical products that may be used in sports and that are licensed in Singapore by the Health Sciences Authority as of the date of the last update of this database of medications.
 

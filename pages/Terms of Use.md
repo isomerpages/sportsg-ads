@@ -2,6 +2,10 @@
 title: Terms of Use
 permalink: /terms-of-use/
 variant: markdown
+description: Thank you for visiting the Website of the Anti-Doping Singapore
+  (ADS). By accessing and using any part of this Website, you shall be deemed to
+  have accepted to be legally bound by these Terms of Use. If you do not agree
+  to these Terms of Use, please do not use this website.
 ---
 TERMS OF USE
 ------------
