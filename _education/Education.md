@@ -58,9 +58,11 @@ The [Anti-Doping Education &amp; Learning (ADEL)](https://adel.wada-ama.org/lear
 
 You are strongly encouraged to register for an account to access the learning resources. 
 
+#### **CLEAN SPORT RESOURCES**  
 
+Check out the latest online magazine: [Clean Sport Handbook](https://heyzine.com/flip-book/bf48972bd0.html) and pocket guide: [Clean Sport Pocket Guide](https://heyzine.com/flip-book/c4a20d1fb5.html) for more information on Clean Sport.
 
-**RESEARCH**     
+#### **RESEARCH**     
 Understanding the fundamental differences between athletes who choose to compete clean and those who resort to doping or why some athletes decided to dope will help ensure doping prevention strategies are effective and efficient.   
 The World Anti-Doping Agency's (WADA's) Social Science Research Grant Program was created to ensure that preventive anti-doping education programs were designed using an evidence-based approach.
 
