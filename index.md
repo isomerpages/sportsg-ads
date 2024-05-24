@@ -37,4 +37,5 @@ sections:
       title: Clean Sport Starts From You
       subtitle: Every Athlete, a true winner
       url: /education/
+      button: Read more on clean sport
 ---
