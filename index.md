@@ -7,7 +7,10 @@ description: >-
   for Singapore.
 
 
-  ADS' mission is to ensure sport in Singapore is free of doping through the implementation of effective education, detection, research and international co-operation initiatives. We work together with the sport bodies to protect the rights of Athletes to participate in clean sport.
+  ADS' mission is to ensure sport in Singapore is free of doping through the
+  implementation of effective education, detection, research and international
+  co-operation initiatives. We work together with the sport bodies to protect
+  the rights of Athletes to participate in clean sport.
 image: /images/logo.png
 permalink: /
 notification: ""
@@ -33,6 +36,5 @@ sections:
   - infobar:
       title: Clean Sport Starts From You
       subtitle: Every Athlete, a true winner
-      button: Read more
       url: /education/
 ---
