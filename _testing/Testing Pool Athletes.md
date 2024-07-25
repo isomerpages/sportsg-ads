@@ -336,8 +336,8 @@ accommodation entry.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Complete mailing address, email address and contact numbers
-<br>Address of daily overnight residence</p>
-<p>Competition details
+<br>Address of daily overnight residence
+<br>Competition details
 <br>Training details
 <br>Details of other regular activities</p>
 </td>
