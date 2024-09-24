@@ -29,9 +29,14 @@ to provide you with crucial insights to make informed decisions that:</p>
 </li>
 </ul>
 <p></p>
-<p>The full statement is available here: <a href="/files/Policies &amp; Forms/SSI_NYSI_Supplement_Consensus_Statement_Document_9_Jun_2021.pdf" rel="noopener nofollow" target="_blank">SSI-NYSI-Supplement Consensus Statement Document 9 June 2021</a>
-<br>Referrence: <a href="https://www.ais.gov.au/nutrition/supplements" rel="noopener nofollow" target="_blank">Australian Institute of Sport</a>
+<p>The full statement is available here: <a href="/files/Policies &amp; Forms/SSI_NYSI_Supplement_Consensus_Statement_Document_9_Jun_2021.pdf" rel="noopener nofollow" target="_blank">SSI-NYSI Supplement Consensus Statement 9 June 2021</a>
+<br>
+</p>
+<p><em>Reference: <a href="https://www.ais.gov.au/nutrition/supplements" rel="noopener nofollow" target="_blank">Australian Institute of Sport</a></em>
 </p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Supplements/SSI___NYSI_Infographic_on_Supplements.png">
+</div>
 <p></p>
