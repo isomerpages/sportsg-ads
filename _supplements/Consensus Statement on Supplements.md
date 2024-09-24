@@ -12,8 +12,8 @@ products may offer potential benefits, they also carry significant risks,
 particularly in the area of inadvertent doping.</p>
 <p></p>
 <p>The purpose of the Singapore Sport Institute (SSI) and National Youth
-Sports Institute (NYSI) Join Consensus Statement on Supplement Intake aims
-to provide you with crucial insights to make informed decisions that:</p>
+Sports Institute (NYSI) Joint Consensus Statement on Supplement Intake
+aims to provide you with crucial insights to make informed decisions that:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Are supported by scientific evidence</p>
