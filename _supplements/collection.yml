@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - Supplements.md
+      - Consensus Statement on Supplements.md
