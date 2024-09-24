@@ -2,5 +2,5 @@ collections:
   supplements:
     output: true
     order:
-      - Consensus Statement on Supplements.md
       - Supplements.md
+      - Consensus Statement on Supplements.md
