@@ -281,10 +281,10 @@ is liable for a Missed Test if the athlete cannot be located at the venue
 specified for the 60-minute slot. The athlete is expected to remain at
 this specified location for the entire 60-minute period.</p>
 <p>Updates to the 60-minute slot must be made before the start of the 60-minute
-slot. This can be done through ADAMS or email <a href="mailto:ads@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ads@sport.gov.sg</a> up to one minute before
-the start of the 60-minute slot. However, persistent last minute changes
-can be investigated as an anti-doping rule violation for evading sample
-collection or tampering with doping control.</p>
+slot. This can be done through ADAMS or email <a href="mailto:contactus@ads.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contactus@ads.gov.sg</a> up to one minute
+before the start of the 60-minute slot. However, persistent last minute
+changes can be investigated as an anti-doping rule violation for evading
+sample collection or tampering with doping control.</p>
 <p><strong>Whereabouts Information 7: Travel Information </strong>
 <br>All <strong>RTP</strong> athletes must provide their details of their travel
 plans if they have <strong><em>all-day</em></strong> travel plans that prevent
@@ -395,7 +395,7 @@ of last-mnute updates may be investigated as anti-doping rule violation
 for evading sample collection or tampering with doping control.</p>
 <p>Updates to whereabouts filing can be made:
 <br>(a) Online via <a href="https://adams.wada-ama.org/adams/login.do?prompt=true&amp;nopopup=true" rel="noopener noreferrer nofollow" target="_blank">ADAMS </a>
-<br>(b) By Email to <a href="mailto:ads@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ads@sport.gov.sg</a>
+<br>(b) By Email to <a href="mailto:contactus@ads.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contactus@ads.gov.sg</a>
 </p>
 <p><strong>THIRD PARTY AUTHORISATION </strong>
 <br>Athletes may delegate filing responsibilities for some or all required
