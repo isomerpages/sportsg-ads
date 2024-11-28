@@ -17,7 +17,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6345 7111
-      - email: ads@sport.gov.sg
+      - email: contactus@ads.gov.sg
       - other: ""
     title: General Enquiries & Feedback
 feedback: ""
