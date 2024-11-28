@@ -27,7 +27,7 @@ Targeted at athletes competing at all levels and their support personnel, our ed
 
 To achieve this, ADS works closely with the various National Sports Associations and the sports fraternity so that athletes enjoy the right to clean sport in Singapore. 
 
-Email [ads@sport.gov.sg](mailto:ads@sport.gov.sg) to find out more.
+Email [contactus@ads.gov.sg](mailto:contactus@ads.gov.sg) to find out more.
 
 #### **PRINCIPLES &amp; VALUES ASSOCIATED  WITH CLEAN SPORT**
 
