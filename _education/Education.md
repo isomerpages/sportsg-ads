@@ -31,7 +31,7 @@ Email [contactus@ads.gov.sg](mailto:contactus@ads.gov.sg) to find out more.
 
 #### **PRINCIPLES &amp; VALUES ASSOCIATED  WITH CLEAN SPORT**
 
-The basic principle for information and education programmes shall be to protect the spirit of sport from being undermined by doping and to establish an environment which promotes ad encourages clean sport behaviour and conduct among Participants.
+The basic principle for information and education programmes shall be to protect the spirit of sport from being undermined by doping and to establish an environment which promotes and encourages clean sport behaviour and conduct among Participants.
 
 The primary goal shall be to educate and inform Athletes, Athlete Support Personnel and other Persons about issues concerning doping in sport, and the risks of inadvertent doping.
 
