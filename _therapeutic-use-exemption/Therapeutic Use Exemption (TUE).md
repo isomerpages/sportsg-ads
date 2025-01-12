@@ -59,7 +59,7 @@ to Step 3.</p>
 <p>STEP 3: APPLY FOR A TUE</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download a&nbsp;<a href="/files/Policies &amp; Forms/ADS_TUE_Application_Form_20210615.pdf" rel="noopener noreferrer nofollow" target="_blank">TUE Application Form</a> from
+<p>Download a&nbsp;<a href="/files/Policies &amp; Forms/ADS_TUE_Application_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">TUE Application Form</a> from
 ADS website or obtain it from your National Sports Association or International
 Federation, where applicable.</p>
 </li>
@@ -207,11 +207,13 @@ Pool, Singapore athletes participating in a NSA National Championship for
 which a TUE granted pursuant to the ADS Anti-Doping Rules is required and
 any other Singapore athlete requiring a TUE for the use prohibited substances
 or methods shall submit the TUE application to ADS. A TUE application should
-be made on the <a href="/files/Policies &amp; Forms/ADS_TUE_Application_Form_20210615.pdf" rel="noopener noreferrer nofollow" target="_blank">ADS TUE Application Form</a> that
+be made on the <a href="/files/Policies &amp; Forms/ADS_TUE_Application_Form_20210615.pdf" rel="noopener noreferrer nofollow" target="_blank">ADS TUE Applicatio</a>
+<a href="/files/Policies &amp; Forms/ADS_TUE_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Policies &amp; Forms/ADS_TUE_Application_Form_20210615.pdf" rel="noopener noreferrer nofollow" target="_blank">n Form</a> that
 is completed with your Doctor. Athletes who are in their respective International
 Federation’s Registered Testing Pool shall submit the TUE application to
 their International Federation. The application to ADS should include the
-completed <a href="/files/Policies &amp; Forms/ADS_TUE_Application_Form_20210615.pdf" rel="noopener noreferrer nofollow" target="_blank">ADS TUE Application Form</a> and
+completed <a href="/files/Policies &amp; Forms/ADS_TUE_Application_Form_20210615.pdf" rel="noopener noreferrer nofollow" target="_blank">ADS TUE Applicati</a>
+<a href="/files/Policies &amp; Forms/ADS_TUE_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Policies &amp; Forms/ADS_TUE_Application_Form_20210615.pdf" rel="noopener noreferrer nofollow" target="_blank">on Form</a> and
 medical evidence (for example, comprehensive medical history, results of
 all relevant examinations, laboratory investigations and imaging studies)
 to justify the use of a prohibited substance or method. A TUE application
