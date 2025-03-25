@@ -25,7 +25,7 @@ received must not violate these rules.</p>
 <p>STEP 1: CHECK STATUS OF SUBSTANCE OR METHOD OF TREATMENT</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Check online at&nbsp;<a href="http://list.wada-ama.org/" rel="noopener noreferrer nofollow" target="_blank"><u>list.wada-ama.org</u></a>&nbsp;for
+<p>Check online at&nbsp;<a href="https://www.wada-ama.org/en/prohibited-list" rel="noopener noreferrer nofollow" target="_blank"><u>list.wada-ama.org</u></a>&nbsp;for
 WADA’s Prohibited List</p>
 </li>
 <li>
