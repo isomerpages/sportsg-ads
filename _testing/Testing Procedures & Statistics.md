@@ -297,5 +297,9 @@ for the following categories:</p>
 <p><a href="/files/Testing Statistics/FY2023_ADS_Testing___Investigations_Statistics__1_Apr_23_to_31_Mar_24_.pdf" rel="noopener noreferrer nofollow" target="_blank">Financial Year 2023/2024 Doping Control Statistics</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Testing Statistics/FY2024_ADS_Testing___Investigations_Statistics__1_Apr_24_to_31_Mar_25_.pdf" rel="noopener nofollow" target="_blank">Financial Year 2024/2025 Doping Control Statistics</a>
+</p>
+</li>
 </ul>
 <p></p>
