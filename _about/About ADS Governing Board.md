@@ -18,6 +18,10 @@ and Governance; Medicine, Science, Social Science, and Technology; Athletes’
 Experience and Perspective; Education; and Investigation.</p>
 <p>The composition of the Governing Board is as follows:</p>
 <h4><strong>Chairperson</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Teo_Ser_Luck_namecard.jpg">
+</div>
 <p><strong>Mr Teo Ser Luck</strong>
 <br>President
 <br>Institute of Singapore Chartered Accountants</p>
