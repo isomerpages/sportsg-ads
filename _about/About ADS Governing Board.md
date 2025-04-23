@@ -26,6 +26,7 @@ Experience and Perspective; Education; and Investigation.</p>
 <br>
 <br>
 <br>
+<br>
 <p></p>
 <p><strong>Mr Teo Ser Luck</strong>
 <br>President
@@ -35,7 +36,7 @@ Experience and Perspective; Education; and Investigation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 21%;" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Vikram_Nair_namecard.jpg" align="left">
 </div>
-<br><br><br><br>
+<br><br><br><br><br>
 <p><strong>Mr Vikram Nair</strong>
 <br>Deputy Head, Dispute Resolution
 <br>Rajah and Tann Asia</p>
@@ -43,7 +44,7 @@ Experience and Perspective; Education; and Investigation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 21%;" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Mok_Ying_Ren_namecard.jpg" align="left">
 </div>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 <p><strong>Dr Mok Ying Ren</strong>
 <br>Consultant, Sports Surgery
 <br>Department of Orthopaedics National University Hospital</p>
@@ -51,7 +52,7 @@ Experience and Perspective; Education; and Investigation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Joan_Hung_namecard.jpg" align="left">
 </div>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 <p><strong>Ms Joan Hung</strong>
 <br>Coach, Goalball Singapore
 <br>Coach and Facilitator, Athlete Development Pte Ltd</p>
