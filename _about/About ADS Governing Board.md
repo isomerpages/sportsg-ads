@@ -80,6 +80,9 @@ Experience and Perspective; Education; and Investigation.</p>
 <br>Coach and Facilitator, Athlete Development Pte Ltd</p>
 <p></p>
 <p></p>
+<p>Ms Joan Hung is a dedicated para-athlete and currently represents Team Singapore in Goalball and Judo. In her constant pursuit for excellence, she was Team Singapore's top scorer in the 2022 ASEAN Para Games where the team secured a silver medal. Inspiring others through her perseverance and achievements, she is an advocate for integrity and inclusivity in sports.</p>
+<p> Beyond her athletic career, Ms Hung is a coach and facilitator at Athlete Development Pte Ltd. She actively mentors athletes, fosters skill development, and promotes greater accessibility in Sports. The combination of the athlete's voice and her expertise as an educator guides Anti-Doping Singapore in achieving greater heights for Clean Sport.</p>
+<br>
 <br>
 <div class="isomer-image-wrapper">
 <img style="width: 25%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Charles_Shng__edited_.png" align="left">
