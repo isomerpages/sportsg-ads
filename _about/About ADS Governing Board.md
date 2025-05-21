@@ -48,7 +48,7 @@ Experience and Perspective; Education; and Investigation.</p>
 <p><strong>Mr Vikram Nair</strong>
 <br>Deputy Head, Dispute Resolution
 <br>Rajah and Tann Asia</p>
-<br>
+<p>A seasoned lawyer and partner at Rajah &amp; Tann Asia, Mr Vikram Nair has extensive experience in arbitration and litigation. Separately, Mr Nair has been a Member of Parliament for Sembawang GRC since 2011, actively engaging in community development and public service. He has also been the Chairman of the Tamil Language Learning and Promotion Committee for many years. We look forward to Mr Nair's continued contributions in championing Clean Sport.</p><br>
 <br>
 <p></p>
 <p></p>
@@ -66,6 +66,9 @@ Experience and Perspective; Education; and Investigation.</p>
 <br>Department of Orthopaedics National University Hospital</p>
 <p></p>
 <p></p>
+<p>As a former national athlete, Dr Mok's impressive athletic career includes two Golds at the Southeast Asian Games in 2007 and 2013. He is an inspiring role model to many young athletes, encouraging them to put their best foot forward in Sports.</p>
+<p> Currently a doctor at the National University Hospital, Dr Mok Yingren specializes in sports medicine and orthopaedics, with a focus on sports-related injuries, including ligament recontruction, meniscus repair and cartilage surgeries.</p>
+<p> In addition, he serves as a clinical teacher and tutor and the NTU and NUS School of Medicine respectively. An experienced educator, his unique blend of medical knowledge and firsthand sports experience makes him a vital contributor to the board's mission.</p>
 <br> <br>
 <div class="isomer-image-wrapper">
 <img style="width: 25%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Joan_Hung__edited_.png" align="left">
