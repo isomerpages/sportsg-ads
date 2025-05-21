@@ -30,6 +30,7 @@ Experience and Perspective; Education; and Investigation.</p>
 <br>
 <p></p>
 <p></p>
+<br>
 <p><strong>Mr Teo Ser Luck</strong>
 <br>President
 <br>Institute of Singapore Chartered Accountants</p>
@@ -47,6 +48,7 @@ Experience and Perspective; Education; and Investigation.</p>
 <br>
 <br>
 <p></p>
+<br>
 <p><strong>Mr Vikram Nair</strong>
 <br>Deputy Head, Dispute Resolution
 <br>Rajah and Tann Asia</p>
@@ -63,6 +65,8 @@ Experience and Perspective; Education; and Investigation.</p>
 <br>
 <br>
 </p>
+<br>
+<br>
 <p><strong>Dr Mok Ying Ren</strong>
 <br>Consultant, Sports Surgery
 <br>Department of Orthopaedics National University Hospital</p>
@@ -80,6 +84,8 @@ Experience and Perspective; Education; and Investigation.</p>
 </p><p>
 <br>
 </p>
+<br>
+<br>
 <p><strong>Ms Joan Hung</strong>
 <br>Coach, Goalball Singapore
 <br>Coach and Facilitator, Athlete Development Pte Ltd</p>
@@ -97,6 +103,7 @@ Experience and Perspective; Education; and Investigation.</p>
 <br>
 <br>
 </p>
+<br><br>
 <p><strong>Mr Shng Yunn Chinn Charles</strong>
 </p><p></p>
 <p>
