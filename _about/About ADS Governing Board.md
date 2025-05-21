@@ -21,15 +21,14 @@ Experience and Perspective; Education; and Investigation.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Teo_Ser_Luck__edited_.png">
+<img style="width: 25%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Teo_Ser_Luck__edited_.png" align="left">
 </div>
-<p>
 <br>
 <br>
 <br>
 <br>
 <br>
-</p>
+<p></p>
 <p></p>
 <p><strong>Mr Teo Ser Luck</strong>
 <br>President
@@ -38,26 +37,25 @@ Experience and Perspective; Education; and Investigation.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Vikram_Nair__edited_.png">
+<img style="width: 25%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Vikram_Nair__edited_.png" align="left">
 </div>
-<p>
 <br>
 <br>
 <br>
 <br>
 <br>
-</p>
+<p></p>
 <p><strong>Mr Vikram Nair</strong>
 <br>Deputy Head, Dispute Resolution
 <br>Rajah and Tann Asia</p>
+<br>
+<br>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Mok_Yingren__edited_.png">
+<img style="width: 25%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Mok_Yingren__edited_.png" align="left">
 </div>
 <p>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -68,16 +66,13 @@ Experience and Perspective; Education; and Investigation.</p>
 <br>Department of Orthopaedics National University Hospital</p>
 <p></p>
 <p></p>
+<br> <br>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Joan_Hung__edited_.png">
+<img style="width: 25%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Joan_Hung__edited_.png" align="left">
 </div>
 <p>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
+</p><p>
 <br>
 </p>
 <p><strong>Ms Joan Hung</strong>
@@ -85,8 +80,9 @@ Experience and Perspective; Education; and Investigation.</p>
 <br>Coach and Facilitator, Athlete Development Pte Ltd</p>
 <p></p>
 <p></p>
+<br>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Charles_Shng__edited_.png">
+<img style="width: 25%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Charles_Shng__edited_.png" align="left">
 </div>
 <p>
 <br>
@@ -94,10 +90,9 @@ Experience and Perspective; Education; and Investigation.</p>
 <br>
 </p>
 <p><strong>Mr Shng Yunn Chinn Charles</strong>
-<br>Deputy General Manager
-<br>Da Ren Tang Singapore</p>
-<p></p>
+</p><p></p>
 <p>
-<br>
-<br>
 </p>
+<p>Mr Charles Shng Yunn Chinn is an aspiring entrepreneur and is currently working on a few Food and Beverages (F&amp;B) projects. After 26 years in the civil service, he left to pursue a career in the private sector before venturing into being a business owner on his own.</p>
+<p> His stint as the deputy general manager of Tianjin Da Ren Tang Singapore Development Co. Pte. Ltd allowed him to gain experience in overseeing operations and strategic growth in the healthcare and wellness industry both in Singapore as well as in Southeast Asia. His expertise in TCM is instrumental in informing and advising of traditional pharmacopoeia usage for sports-related treatment.</p>
+<p> Mr Shng has also previously served in the Singapore Police Force, where he contributed to law enforcement and business management provides an instrumental support in promoting fair play and ethical sports practices in Singapore.</p>
