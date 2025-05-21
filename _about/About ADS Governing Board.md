@@ -19,8 +19,9 @@ Experience and Perspective; Education; and Investigation.</p>
 <p>The composition of the Governing Board is as follows:</p>
 <h4><strong>Chairperson</strong></h4>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 22%;" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Teo_Ser_Luck_namecard.jpg" align="left">
+<img style="width: 25%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Teo_Ser_Luck__edited_.png" align="left">
 </div>
 <br>
 <br>
@@ -28,44 +29,85 @@ Experience and Perspective; Education; and Investigation.</p>
 <br>
 <br>
 <p></p>
+<p></p>
+<br>
 <p><strong>Mr Teo Ser Luck</strong>
 <br>President
 <br>Institute of Singapore Chartered Accountants</p>
+<p>A former Member of Parliament and Minister of State, Mr Teo played a pivotal role in organizing Singapore's inaugural Youth Olympic Games in 2010, showcasing his leadership in Sports and Youth Development.</p>
+<p> Outside of Public Service, Mr Teo is an accomplished entrepreneur serving as the President of the Institute of Singapore Chartered Accountants (ISCA) and recognized for his innovative contributions to the world-class accountancy body and commitment to supporting start-ups and professionals. His dedication to excellence aligns with ADS' Vision and is a key asset in raising awareness about anti-doping in Singapore</p>
 <h4><strong>Members</strong></h4>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 21%;" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Vikram_Nair_namecard.jpg" align="left">
+<img style="width: 25%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Vikram_Nair__edited_.png" align="left">
 </div>
-<br><br><br><br><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p></p>
+<br>
 <p><strong>Mr Vikram Nair</strong>
 <br>Deputy Head, Dispute Resolution
 <br>Rajah and Tann Asia</p>
+<p>A seasoned lawyer and partner at Rajah &amp; Tann Asia, Mr Vikram Nair has extensive experience in arbitration and litigation. Separately, Mr Nair has been a Member of Parliament for Sembawang GRC since 2011, actively engaging in community development and public service. He has also been the Chairman of the Tamil Language Learning and Promotion Committee for many years. We look forward to Mr Nair's continued contributions in championing Clean Sport.</p><br>
+<br>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 21%;" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Mok_Ying_Ren_namecard.jpg" align="left">
+<img style="width: 25%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Mok_Yingren__edited_.png" align="left">
 </div>
-<br><br><br><br><br><br>
+<p>
+<br>
+<br>
+<br>
+<br>
+</p>
+<br>
+<br>
 <p><strong>Dr Mok Ying Ren</strong>
 <br>Consultant, Sports Surgery
 <br>Department of Orthopaedics National University Hospital</p>
 <p></p>
+<p></p>
+<p>As a former national athlete, Dr Mok's impressive athletic career includes two Golds at the Southeast Asian Games in 2007 and 2013. He is an inspiring role model to many young athletes, encouraging them to put their best foot forward in Sports.</p>
+<p> Currently a doctor at the National University Hospital, Dr Mok Yingren specializes in sports medicine and orthopaedics, with a focus on sports-related injuries, including ligament recontruction, meniscus repair and cartilage surgeries.</p>
+<p> In addition, he serves as a clinical teacher and tutor and the NTU and NUS School of Medicine respectively. An experienced educator, his unique blend of medical knowledge and firsthand sports experience makes him a vital contributor to the board's mission.</p>
+<br> <br>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Joan_Hung_namecard.jpg" align="left">
+<img style="width: 25%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Joan_Hung__edited_.png" align="left">
 </div>
-<br><br><br><br><br><br><br>
+<p>
+<br>
+</p><p>
+<br>
+</p>
+<br>
+<br>
 <p><strong>Ms Joan Hung</strong>
 <br>Coach, Goalball Singapore
 <br>Coach and Facilitator, Athlete Development Pte Ltd</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 23%;" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Charles_Shng_namecard.jpg" align="left">
-</div>
-<br><br><br>
-<p><strong>Mr Shng Yunn Chinn Charles</strong>
-<br>Deputy General Manager
-<br>Da Ren Tang Singapore</p>
 <p></p>
+<p>Ms Joan Hung is a dedicated para-athlete and currently represents Team Singapore in Goalball and Judo. In her constant pursuit for excellence, she was Team Singapore's top scorer in the 2022 ASEAN Para Games where the team secured a silver medal. Inspiring others through her perseverance and achievements, she is an advocate for integrity and inclusivity in sports.</p>
+<p> Beyond her athletic career, Ms Hung is a coach and facilitator at Athlete Development Pte Ltd. She actively mentors athletes, fosters skill development, and promotes greater accessibility in Sports. The combination of the athlete's voice and her expertise as an educator guides Anti-Doping Singapore in achieving greater heights for Clean Sport.</p>
+<br>
+<br>
+<div class="isomer-image-wrapper">
+<img style="width: 25%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Charles_Shng__edited_.png" align="left">
+</div>
 <p>
 <br>
 <br>
+<br>
 </p>
+<br><br>
+<p><strong>Mr Shng Yunn Chinn Charles</strong>
+</p><p></p>
+<p>
+</p>
+<p>Mr Charles Shng Yunn Chinn is an aspiring entrepreneur and is currently working on a few Food and Beverages (F&amp;B) projects. After 26 years in the civil service, he left to pursue a career in the private sector before venturing into being a business owner on his own.</p>
+<p> His stint as the deputy general manager of Tianjin Da Ren Tang Singapore Development Co. Pte. Ltd allowed him to gain experience in overseeing operations and strategic growth in the healthcare and wellness industry both in Singapore as well as in Southeast Asia. His expertise in TCM is instrumental in informing and advising of traditional pharmacopoeia usage for sports-related treatment.</p>
+<p> Mr Shng has also previously served in the Singapore Police Force, where he contributed to law enforcement and business management provides an instrumental support in promoting fair play and ethical sports practices in Singapore.</p>
