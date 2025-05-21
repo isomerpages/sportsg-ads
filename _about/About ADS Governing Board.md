@@ -33,6 +33,8 @@ Experience and Perspective; Education; and Investigation.</p>
 <p><strong>Mr Teo Ser Luck</strong>
 <br>President
 <br>Institute of Singapore Chartered Accountants</p>
+<p>A former Member of Parliament and Minister of State, Mr Teo played a pivotal role in organizing Singapore's inaugural Youth Olympic Games in 2010, showcasing his leadership in Sports and Youth Development.</p>
+<p> Outside of Public Service, Mr Teo is an accomplished entrepreneur serving as the President of the Institute of Singapore Chartered Accountants (ISCA) and recognized for his innovative contributions to the world-class accountancy body and commitment to supporting start-ups and professionals. His dedication to excellence aligns with ADS' Vision and is a key asset in raising awareness about anti-doping in Singapore</p>
 <h4><strong>Members</strong></h4>
 <p></p>
 <p></p>
