@@ -49,8 +49,8 @@ Experience and Perspective; Education; and Investigation.</p>
 <br>
 <br>
 <br>
-<p>
-</p><p></p>
+<br>
+<p></p><p></p>
 <br>
 <p><strong>Mr Vikram Nair</strong>
 <br>Deputy Head, Dispute Resolution
@@ -67,6 +67,7 @@ Experience and Perspective; Education; and Investigation.</p>
 <br>
 </p><p>
 </p>
+<br>
 <br>
 <br>
 <p><strong>Dr Mok Ying Ren</strong>
@@ -87,6 +88,7 @@ Experience and Perspective; Education; and Investigation.</p>
 </p>
 <br>
 <br>
+<br>
 <p><strong>Ms Joan Hung</strong>
 <br>Coach, Goalball Singapore
 <br>Coach and Facilitator, Athlete Development Pte Ltd</p>
@@ -101,7 +103,7 @@ Experience and Perspective; Education; and Investigation.</p>
 </div>
 <p>
 <br>
-
+<br>
 </p>
 <br><br>
 <p><strong>Mr Shng Yunn Chinn Charles</strong>
