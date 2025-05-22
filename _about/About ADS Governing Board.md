@@ -28,15 +28,19 @@ Experience and Perspective; Education; and Investigation.</p>
 <br>
 <br>
 <br>
-<p></p>
-<p></p>
 <br>
-<p><strong>Mr Teo Ser Luck</strong>
+<p></p><p></p>
+<p></p><p>
+</p><p><strong>Mr Teo Ser Luck</strong>
 <br>President
 <br>Institute of Singapore Chartered Accountants</p>
-<p>A former Member of Parliament and Minister of State, Mr Teo played a pivotal role in organizing Singapore's inaugural Youth Olympic Games in 2010, showcasing his leadership in Sports and Youth Development.</p>
-<p> Outside of Public Service, Mr Teo is an accomplished entrepreneur serving as the President of the Institute of Singapore Chartered Accountants (ISCA) and recognized for his innovative contributions to the world-class accountancy body and commitment to supporting start-ups and professionals. His dedication to excellence aligns with ADS' Vision and is a key asset in raising awareness about anti-doping in Singapore</p>
-<h4><strong>Members</strong></h4>
+<p> Mr Teo Ser Luck is an entrepreneur, investor and started his own companies in different sectors relating to e-commerce technologies, healthcare, fitness, wellness, fintech, edutech, rabnds and software development.</p>
+<p> He spent 15 years in the private sector working in companies including Nike and DHL, overseeing and managing multi-national companies and operations in the Asia-Pacific region before being elected as a Member of Parliament of Singapore in 2006 and appointed as a full-time Minister of State and Mayor in the Singapore government. He returned to the private sector in July 2017 to build his own companies and remained as a Member of Parliament till June 2020.</p><p>
+</p><p>Mr Teo was recognised as a young global leader by the World Economic Forum and was thrice conferred the Nanyang Alumni Awards - the Nanyang Outstanding Young Alumni Award, the Nanyang Alumni Achievement Award and the Nanyang Distinguished Alumni Award from the Nanyang Technological University (NTU).</p><p>
+</p><p>Apart from having his own companies, Mr Teo is also the Chairman of 2 public-listed companies on the main board of SGX.</p><p>
+</p><p> Mr Teo's public service extends into the industry sectors. He is the President of the Institute of Chartered Accountants (ISCA) and also Advisor to the Singapore Fintech Association.</p><p>
+</p><p> Mr Teo graduated with a Bachelor of Accountancy from NTU. Mr Teo loves to read, plays music, workout daily and participates in endurance races.</p><p>
+</p><h4><strong>Members</strong></h4>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -46,8 +50,7 @@ Experience and Perspective; Education; and Investigation.</p>
 <br>
 <br>
 <br>
-<br>
-<p></p>
+<p></p><p></p>
 <br>
 <p><strong>Mr Vikram Nair</strong>
 <br>Deputy Head, Dispute Resolution
@@ -62,9 +65,9 @@ Experience and Perspective; Education; and Investigation.</p>
 <p>
 <br>
 <br>
-<br>
-<br>
+</p><p>
 </p>
+<br>
 <br>
 <br>
 <p><strong>Dr Mok Ying Ren</strong>
@@ -82,8 +85,8 @@ Experience and Perspective; Education; and Investigation.</p>
 <p>
 <br>
 </p><p>
-<br>
 </p>
+<br>
 <br>
 <br>
 <p><strong>Ms Joan Hung</strong>
@@ -99,7 +102,6 @@ Experience and Perspective; Education; and Investigation.</p>
 <img style="width: 25%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Charles_Shng__edited_.png" align="left">
 </div>
 <p>
-<br>
 <br>
 <br>
 </p>
