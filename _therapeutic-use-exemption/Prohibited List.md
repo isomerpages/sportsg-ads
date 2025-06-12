@@ -89,9 +89,9 @@ Kingdom, the USA and Switzerland</p>
 <br>For list of medications registered in Hong Kong</p>
 </li>
 <li>
-<p><a href="http://www.eirpharm.com/sports/" rel="noopener noreferrer nofollow" target="_blank"><u>Irish Pharmacy’s Drug in Sport Database</u></a>&nbsp;(endorsed
-by the Irish Sports Council)
-<br>For list of medications registered in Ireland</p>
+<p>Irish Pharmacy's Drug in Sport Database (endorsed by the Irish Sports
+Council)
+<br>For list of medications registered in Ireland (via www.eirpharm.com/sports/)</p>
 </li>
 </ol>
 <p><strong>TIPS FOR ATHLETES TRAVELLING ABROAD </strong>
