@@ -60,7 +60,7 @@ You are strongly encouraged to register for an account to access the learning re
 
 #### **CLEAN SPORT RESOURCES**  
 
-Check out the latest online magazine: [Clean Sport Handbook](https://heyzine.com/flip-book/bf48972bd0.html) and pocket guide: [Clean Sport Pocket Guide](https://heyzine.com/flip-book/c4a20d1fb5.html) for more information on Clean Sport.
+Check out the latest online magazine: [Clean Sport Handbook](https://www.canva.com/design/DAGXQaEsTNU/Pr2DWIxmOoPevkQnFDKuBg/view?utm_content=DAGXQaEsTNU&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=hd3a62d6927) and pocket guide: [Clean Sport Pocket Guide](https://www.canva.com/design/DAF_eJETOqo/o25Ell9TyEtxFhfiAyNQtA/view?utm_content=DAF_eJETOqo&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h8392ea160f) for more information on Clean Sport.
 
 #### **RESEARCH**     
 Understanding the fundamental differences between athletes who choose to compete clean and those who resort to doping or why some athletes decided to dope will help ensure doping prevention strategies are effective and efficient.   
