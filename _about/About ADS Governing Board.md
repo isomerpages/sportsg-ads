@@ -21,7 +21,7 @@ Experience and Perspective; Education; and Investigation.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Teo_Ser_Luck__edited_.png">
+<img style="width: 25%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Teo_Ser_Luck__edited_.png" align="left">
 </div>
 <p>
 <br>
@@ -68,7 +68,7 @@ to read, plays music, workout daily and participates in endurance races.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Vikram_Nair__edited_.png">
+<img style="width: 25%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Vikram_Nair__edited_.png" align="left">
 </div>
 <p>
 <br>
@@ -98,7 +98,7 @@ Clean Sport.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Mok_Yingren__edited_.png">
+<img style="width: 25%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Mok_Yingren__edited_.png" align="left">
 </div>
 <p>
 <br>
@@ -132,7 +132,7 @@ vital contributor to the board's mission.</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Joan_Hung__edited_.png">
+<img style="width: 25%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Joan_Hung__edited_.png" align="left">
 </div>
 <p>
 <br>
@@ -163,7 +163,7 @@ achieving greater heights for Clean Sport.</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Charles_Shng__edited_.png">
+<img style="width: 25%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Charles_Shng__edited_.png" align="left">
 </div>
 <p>
 <br>
@@ -195,7 +195,7 @@ support in promoting fair play and ethical sports practices in Singapore.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/nicholas_fang.jpg">
+<img style="width: 25%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/nicholas_fang.jpg" align="left">
 </div>
 <p>
 <br>
