@@ -205,6 +205,7 @@ support in promoting fair play and ethical sports practices in Singapore.</p>
 <br>
 <br>
 </p>
+<br>
 <p><strong>Mr Nicholas Fang</strong>
 </p>
 <p></p>
