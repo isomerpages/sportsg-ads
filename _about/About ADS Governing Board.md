@@ -34,7 +34,7 @@ Experience and Perspective; Education; and Investigation.</p>
 </p><p><strong>Mr Teo Ser Luck</strong>
 <br>President
 <br>Institute of Singapore Chartered Accountants</p>
-<p> Mr Teo Ser Luck is an entrepreneur, investor and started his own companies in different sectors relating to e-commerce technologies, healthcare, fitness, wellness, fintech, edutech, rabnds and software development.</p>
+<p> Mr Teo Ser Luck is an entrepreneur, investor and started his own companies in different sectors relating to e-commerce technologies, healthcare, fitness, wellness, fintech, edutech, brands and software development.</p>
 <p> He spent 15 years in the private sector working in companies including Nike and DHL, overseeing and managing multi-national companies and operations in the Asia-Pacific region before being elected as a Member of Parliament of Singapore in 2006 and appointed as a full-time Minister of State and Mayor in the Singapore government. He returned to the private sector in July 2017 to build his own companies and remained as a Member of Parliament till June 2020.</p><p>
 </p><p>Mr Teo was recognised as a young global leader by the World Economic Forum and was thrice conferred the Nanyang Alumni Awards - the Nanyang Outstanding Young Alumni Award, the Nanyang Alumni Achievement Award and the Nanyang Distinguished Alumni Award from the Nanyang Technological University (NTU).</p><p>
 </p><p>Apart from having his own companies, Mr Teo is also the Chairman of 2 public-listed companies on the main board of SGX.</p><p>
@@ -76,7 +76,7 @@ Experience and Perspective; Education; and Investigation.</p>
 <p></p>
 <p></p>
 <p>As a former national athlete, Dr Mok's impressive athletic career includes two Golds at the Southeast Asian Games in 2007 and 2013. He is an inspiring role model to many young athletes, encouraging them to put their best foot forward in Sports.</p>
-<p> Currently a doctor at the National University Hospital, Dr Mok Yingren specializes in sports medicine and orthopaedics, with a focus on sports-related injuries, including ligament recontruction, meniscus repair and cartilage surgeries.</p>
+<p> Currently a doctor at the National University Hospital, Dr Mok Yingren specializes in sports medicine and orthopaedics, with a focus on sports-related injuries, including ligament reconstruction, meniscus repair and cartilage surgeries.</p>
 <p> In addition, he serves as a clinical teacher and tutor and the NTU and NUS School of Medicine respectively. An experienced educator, his unique blend of medical knowledge and firsthand sports experience makes him a vital contributor to the board's mission.</p>
 <br> <br>
 <div class="isomer-image-wrapper">
@@ -113,3 +113,31 @@ Experience and Perspective; Education; and Investigation.</p>
 <p>Mr Charles Shng Yunn Chinn is an aspiring entrepreneur and is currently working on a few Food and Beverages (F&amp;B) projects. After 26 years in the civil service, he left to pursue a career in the private sector before venturing into being a business owner on his own.</p>
 <p> His stint as the deputy general manager of Tianjin Da Ren Tang Singapore Development Co. Pte. Ltd allowed him to gain experience in overseeing operations and strategic growth in the healthcare and wellness industry both in Singapore as well as in Southeast Asia. His expertise in TCM is instrumental in informing and advising of traditional pharmacopoeia usage for sports-related treatment.</p>
 <p> Mr Shng has also previously served in the Singapore Police Force, where he contributed to law enforcement and business management provides an instrumental support in promoting fair play and ethical sports practices in Singapore.</p>
+
+<br>
+<br>
+<div class="isomer-image-wrapper">
+<img style="width: 25%" height="auto" width="100%" alt="" src="/images/ADS Governing Board/Charles_Shng__edited_.png" align="left">
+</div>
+<p>
+<br>
+<br>
+</p>
+<br><br>
+<p><strong>Mr Nicholas Fang</strong>
+</p><p></p>
+<p>
+</p>
+<p>
+
+Nicholas Fang is a strategic communications expert with more than 20 years experience across multiple aspects of the industry.
+
+He graduated from Oxford University with a Masters in Politics, Philosophy and Economics and started his working life as a journalist, spending nine years at Singapore’s national daily newspaper, The Straits Times. There he reported on financial and sports news, rising to the post of Senior Correspondent. He then spent a total of almost seven years at national broadcaster Mediacorp, starting as business desk editor at Mediacorp’s regional news channel - Channel NewsAsia, now known as CNA. During this time, he oversaw local and business news coverage, and also presented various key bulletins. He has hosted live programmes featuring Singapore’s key political leaders, including Prime Minister Lee Hsien Loong, and covered Prime Minister Lee’s official visit to the United States in 2016. He was most recently deputy chief editor of Singapore news at Mediacorp, overseeing all news coverage in and out of Singapore.
+
+Nicholas founded strategic communications consultancy Black Dot Pte Ltd in 2012 to offer full-suite communications, public relations and media management services to a broad base of clients. In 2018, Nicholas founded Black Dot Research Pte Ltd, a social and market research agency. In 2019, the company became, and remains, Singapore’s only independent private-sector fact-checking organisation that offers fact-checking services for the general public on a free-to-use basis as part of broader efforts to counter the effects of misinformation and disinformation, commonly known as fake news, on Singapore society.
+
+Nicholas was appointed Nominated Member of the Singapore Parliament in February 2012, and served a two-and-a-half-year term where he focused on issues pertaining to international affairs, media, defence and security, and sports. He has held board positions with Singapore humanitarian non-government organisation Mercy Relief, and non-profit social innovation organisation Social Innovation Park. He was previously a member of the advisory committee of Youth Corps Singapore, and a board member of the Singapore Sports Hub. Nicholas also chairs the MINDEF expert panel for strategic communications.
+
+A former national athlete, Nicholas has represented Singapore in fencing and triathlon, and helmed the national sports associations for fencing and modern pentathlon. He has been a member of the Singapore National Olympic Council and hosted the International Olympic Committee Session in Singapore in 2005. A passionate advocate for sports and athletes, Nicholas co-founded strategic sports consultancy Novastella Consulting in 2019 to offer strategic advisory services in brand partnerships and sponsorships, rights management, and project management and consultancy. He also launched Legends Fencing Club in 2023, which is Singapore’s only fencing club catering exclusively to adults and veteran athletes of all abilities. He was chef de mission for Team Singapore at the 2015 South-east Asian Games.
+
+Nicholas received the Public Service Medal at the 2015 National Day Awards, and the Commendation Medal (Military) at the 2024 National Day Awards.</p>
