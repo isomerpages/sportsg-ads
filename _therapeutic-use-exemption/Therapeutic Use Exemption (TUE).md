@@ -136,8 +136,8 @@ athletes not in any testing pool.</p>
 </li>
 <li>
 <p>Submit to your International Federation for International-level athletes.</p>
-<p>Note: Encrypt your documents (TUE application form and supporting documents)
-before submission via email.</p>
+<p><strong><em>Note: Encrypt your documents (TUE application form and supporting documents) before submission via email.</em></strong>
+</p>
 <p></p>
 </li>
 </ul>
@@ -242,3 +242,5 @@ aware of the requirements of the International Federation or event organiser
 prior to competing. International Federation’s may have different TUE application
 and information requirements and forms.</p>
 <p>For more details, please refer to the <a href="/files/Policies &amp; Forms/ADS_TUE_Policy_20210401.pdf" rel="noopener noreferrer nofollow" target="_blank">ADS TUE Policy</a>.</p>
+<p><em>Please contact Anti-Doping Singapore (ADS) &nbsp;<a rel="noopener noreferrer nofollow" target="_blank">TUE@ads.gov.sg</a> if you encounter any language-related issues with the TUE application form.</em>
+</p>
