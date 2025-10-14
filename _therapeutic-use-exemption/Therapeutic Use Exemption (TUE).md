@@ -136,6 +136,9 @@ athletes not in any testing pool.</p>
 </li>
 <li>
 <p>Submit to your International Federation for International-level athletes.</p>
+<p>Note: Encrypt your documents (TUE application form and supporting documents)
+before submission via email.</p>
+<p></p>
 </li>
 </ul>
 </li>
@@ -227,6 +230,12 @@ The TUE application should be submitted to:</p>
 <br>Fax: +65-64409205
 <br>Email: <a href="mailto:TUE@ads.gov.sg" rel="noopener noreferrer nofollow" target="_blank">TUE@ads.gov.sg</a>
 </p>
+<p>Encrypt your documents (TUE application form and supporting documents)
+before submission via email.</p>
+<p><u>How to encrypt your documents</u>
+</p>
+<p>Step 1: Password-protect using ZIP (7-Zip).</p>
+<p>Step 2: Send the decryption password in a separate email.</p>
 <p>Note: A TUE granted by the ADS TUE Committee may not be acknowledged by
 the International Federation. It is the athlete’s responsibility to be
 aware of the requirements of the International Federation or event organiser
