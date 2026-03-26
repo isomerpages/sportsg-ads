@@ -17,4 +17,4 @@ An athlete or athlete support personnel who is serving a period of ineligibility
 
 Under the Anti-Doping Singapore’s (ADS) Anti-Doping Rules, as well as the World Anti-Doping Code, ADS is required to publish information of the Anti-Doping Rule Violation (ADRV) once a decision has been handed down by the relevant tribunal.
 
-![](/images/Anti%20Doping%20Rule%20Violation/Sanction_List_Updated_14_Aug_24.png)
+![](/images/Anti%20Doping%20Rule%20Violation/Sanction_List_26_Mar_2026.png)
