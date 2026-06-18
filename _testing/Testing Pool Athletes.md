@@ -106,7 +106,7 @@ include:</p>
 <h4><strong>RETIREMENT AND REINSTATEMENT</strong></h4>
 <p><strong>Retirement </strong>
 <br>Athletes in the ADS RTP or ADS DTP who wish to retire from competition,
-should notify both their NSA and ADS by completing the <a href="/files/Policies &amp; Forms/ADS_Athlete_Retirement_Notification_Form_20210611.pdf" rel="noopener noreferrer nofollow" target="_blank">ADS Athlete Retirement Notification Form</a> and
+should notify both their NSA and ADS by completing the <a href="/files/Policies &amp; Forms/ADS_Athlete_Retirement_Notification_Form_20260618.pdf" rel="noopener nofollow" target="_blank">ADS Athlete Retirement Notification Form</a> and
 submitting it to their NSA and ADS.</p>
 <p>Athletes are required to complete the sample collection process if ADS
 has not received the ADS Athlete Retirement Notification Form. Failure
