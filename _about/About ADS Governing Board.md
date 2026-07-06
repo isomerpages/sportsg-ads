@@ -36,7 +36,7 @@ Experience and Perspective; Education; and Investigation.</p>
 <p></p>
 <p></p>
 <p><strong>Mr Teo Ser Luck</strong>
-<br>President
+<br>Advisor
 <br>Institute of Singapore Chartered Accountants</p>
 <p>Mr Teo Ser Luck is an entrepreneur, investor and started his own companies
 in different sectors relating to e-commerce technologies, healthcare, fitness,
